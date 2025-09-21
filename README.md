@@ -81,7 +81,3 @@ RoverAPI_Endpoint-master/
 - ReportLab >= 4.0.0
 - Pillow >= 10.0.0
 - Werkzeug >= 3.0.0
-
-## License
-
-MIT License
